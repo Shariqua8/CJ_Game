@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TimerManager
+  - MoltenCarmineImage
+  - PuppetCarmineImage
+  - WitheredCarmineImage
+  - WitheredAndCarmineImage
+  - ClassicCarmineImage
+  - IdleRoomImage
+  - PhantomCarmineImage
+  - CarminePelatoImage
+  - UfficioObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - UfficioObject
+  - Water
+  - UI
+  - AAAA
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: AAAAA
+    uniqueID: 442747147
+    locked: 0
+  - name: BBBBB
+    uniqueID: 286040511
+    locked: 0

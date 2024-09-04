@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c8417b2928c6c284eac56fe7d06fb8d7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Five Nights at Freddy's
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2632ec0e9a3e77f4ea6d1666f3fdea92, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
